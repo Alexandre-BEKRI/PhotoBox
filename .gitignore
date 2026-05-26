@@ -1,0 +1,9 @@
+# Fichiers IDE
+.idea/
+.vscode/
+*.iml
+*.pdf
+
+# Fichiers de build
+package-lock.json
+node_modules/
